@@ -1,7 +1,9 @@
 # Initiation Android
 
 Durée de formation : 3h
+
 Objectifs : Créer une petite application permettant un CRUD
+
 Points traités : 
 - Lister des éléments
 - Afficher les détails d'un élement
